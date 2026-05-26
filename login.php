@@ -13,7 +13,7 @@ DATABASE CONNECTION
 */
 
 $conn = mysqli_connect(
-    "localhost",
+   "localhost:3307",
     "root",
     "",
     "wil_company"
